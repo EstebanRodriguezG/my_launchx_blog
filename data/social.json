@@ -2,12 +2,12 @@
   "links": [
     {
       "name": "Twitter",
-      "url": "@rodriguezisc",
+      "url": "https://www.twitter.com/rodriguezisc",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/EstebanRodriguezG/",
+      "url": "https://github.com/EstebanRodriguezG",
       "image": "images/social/github.svg"
     }
   ]
